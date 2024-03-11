@@ -1,0 +1,8 @@
+{
+    "github.copilot.enable": {
+        "Python": "python",
+        "Markdown": "markdown",
+        "Java": "java",
+        "C#": "csharp"
+    }
+}
